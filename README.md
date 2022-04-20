@@ -1,7 +1,7 @@
 # Elixir-Mqtt-database-plugin
-Elixir plugin to insert data to a postgres database
+Elixir plugin to insert data to a database
 
-## Functionality
+## Steps:
 Code written using elixir. Data is parsed through insert statements:
 1. Start the elixir terminal:
 ```elixir
