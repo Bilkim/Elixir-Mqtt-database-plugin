@@ -5,7 +5,7 @@ Elixir plugin to insert data to a database
 Code written using elixir. Data is parsed through insert statements:
 1. Start the elixir terminal:
 ```elixir
-iex -S mix
+   iex -S mix
 ```
 2.Pass the data to be added for example:
 ```elixir
